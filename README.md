@@ -2,7 +2,6 @@
 
 A modern, high-performance, dark-themed personal portfolio showcasing professional internships, academic credentials, verified certifications, and featured innovations. Built using **HTML5**, **Tailwind CSS**, and **Vanilla JavaScript** with smooth custom cursor animations and interactive micro-interactions.
 
----
 
 ## Features
 
@@ -13,7 +12,6 @@ A modern, high-performance, dark-themed personal portfolio showcasing profession
 * **Text Scramble Effect:** Dynamic matrix-style scrambling animation on the brand logo (`<AYUSH/>`) upon hover.
 * **Fully Responsive:** Optimized for desktop, tablet, and mobile layouts.
 
----
 
 ## Sections Included
 
@@ -25,7 +23,6 @@ A modern, high-performance, dark-themed personal portfolio showcasing profession
 6. **Featured Innovations:** Spotlight projects including **Prescription Simplifier** (Hack4Health Winner) and **EcoTrace**.
 7. **Verified Credentials:** Grid layout showcasing professional certifications from Meta, Google, Cisco, NPTEL, AWS, and more with verification links.
 
----
 
 ## Tech Stack
 
@@ -33,7 +30,6 @@ A modern, high-performance, dark-themed personal portfolio showcasing profession
 * **Styling:** Tailwind CSS (via CDN)
 * **Scripting:** Vanilla JavaScript (ES6+)
 
----
 
 ## Setup & Local Development
 
@@ -43,7 +39,6 @@ To run or modify this project locally:
 2. Open the project folder in your preferred code editor (e.g., **VS Code**).
 3. Open `index.html` directly in any modern web browser, or use the **Live Server** extension in VS Code for hot-reloading.
 
----
 
 ## Connect With Me
 
