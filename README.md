@@ -4,7 +4,7 @@ A modern, high-performance, dark-themed personal portfolio showcasing profession
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Absolute Black Edition UI:** Designed with a sleek dark aesthetic (`#000000`), subtle borders, and smooth glowing card hover effects.
 * **Custom Interactive Cursor:** Features a custom follower cursor that dynamically expands and reacts when hovering over actionable elements.
@@ -15,7 +15,7 @@ A modern, high-performance, dark-themed personal portfolio showcasing profession
 
 ---
 
-## 📂 Sections Included
+## Sections Included
 
 1. **Hero:** Introduction banner with call-to-action buttons.
 2. **About:** Background summary, location, and professional connection channels (Email Network, LinkedIn, GitHub).
@@ -27,7 +27,7 @@ A modern, high-performance, dark-themed personal portfolio showcasing profession
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Markup:** HTML5
 * **Styling:** Tailwind CSS (via CDN)
@@ -35,7 +35,7 @@ A modern, high-performance, dark-themed personal portfolio showcasing profession
 
 ---
 
-## ⚙️ Setup & Local Development
+## Setup & Local Development
 
 To run or modify this project locally:
 
@@ -45,7 +45,7 @@ To run or modify this project locally:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 * **GitHub:** [ayushkumar1311](https://github.com/ayushkumar1311)
 * **LinkedIn:** [ayush-kumar-512302289](https://www.linkedin.com/in/ayush-kumar-512302289/)
